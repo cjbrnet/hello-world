@@ -1,2 +1,3 @@
 # hello-world
-github example
+
+Making my first change on Github
